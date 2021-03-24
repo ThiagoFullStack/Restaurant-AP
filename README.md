@@ -1,4 +1,4 @@
-# ✅ Restaurant-AP
+# ✅ AP Explosão de Sabores
 
 
 ![Welcome](/ap-explosão-de-sabores.png?raw=true).
